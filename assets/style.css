@@ -7,17 +7,25 @@
 }
 
 body {
-    background-color:bisque
+    background-color:whitesmoke;
 }
 
 header {
-   background-color: black;
+   background-color: grey;
    padding: 10px;
+   font-size: 18px;
 }
+
+header h1 {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 3vw;
+}
+
 header nav {
     padding: 20px;
-
 }
+
 header nav ul {
 display: flex;
 justify-content: end;
@@ -27,9 +35,14 @@ margin-right: 3vw;
 header nav ul li {
 list-style: none;
 margin-left: 3vw;
+background-color: whitesmoke
+}
+
+section {
+    justify-content: center;
 }
 
 a {
     text-decoration: none;
-    color: whitesmoke;
+    color: black
 }
