@@ -11,16 +11,25 @@ body {
 }
 
 header {
-    display: inline-block;
+   background-color: black;
+   padding: 10px;
+}
+header nav {
     padding: 20px;
-    font-family:  'Lucida Sans Unicode';
-    background-color: black
-    color: #ffffff;
+
+}
+header nav ul {
+display: flex;
+justify-content: end;
+margin-right: 3vw;
 }
 
-header h2 {
-    display: inline-block;
-    font-size: 48px;
-    background-color: brown;
+header nav ul li {
+list-style: none;
+margin-left: 3vw;
+}
 
+a {
+    text-decoration: none;
+    color: whitesmoke;
 }
