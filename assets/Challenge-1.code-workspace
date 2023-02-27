@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Challenge-1",
+			"path": "../../Challenge-1"
+		},
+		{
+			"name": "Challenge-2",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Challenge-2"
+	}
+}
