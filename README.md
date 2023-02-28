@@ -1,4 +1,4 @@
-# Challenge-2
+# YaneyAlvaradoPortfolio
 Module 2 Challenge: Professional Portfolio
 
 ## User Story
