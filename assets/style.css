@@ -16,14 +16,14 @@ header {
    font-size: 18px;
 }
 
- h1 {
+header nav {
+    padding: 20px;
+}
+
+h1 {
     display: flex;
     justify-content: flex-start;
     margin-left: 3vw;
-}
-
-header nav {
-    padding: 20px;
 }
 
 header nav ul {
@@ -44,8 +44,16 @@ background-color: whitesmoke
     font-size: 40px;
 }
 
+.center {
+    display: block;
+    margin-left: 100px;
+    width: 50%;
+    border: 5px solid #555;
+    box-shadow: 5px black;
+}
+
 p {
-    text-align: center
+    text-align: center;
     margin: auto;
     width: 50%;
     border: 3px solid black;
@@ -59,15 +67,8 @@ h3 {
     font-size: 40px;
 }
 
-.center {
-    display: block;
-    margin-left: 100px;
-    width: 50%;
-    border: 5px solid #555;
-    box-shadow: 5px black;
-}
 
-.id {
+#Projects {
     display: flex;
     justify-content: center;
 }
@@ -78,7 +79,7 @@ section {
     justify-content: center;
 }
 
-.projects {
+div {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -86,4 +87,24 @@ section {
 a {
     text-decoration: none;
     color: black
+}
+
+.lgimage {
+    display: block;
+    justify-content: center;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid gray;
+
+}
+
+.smimages {
+    display: block;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid gray;
+}
+
+h3 ul li {
+    justify-content: center;
 }
