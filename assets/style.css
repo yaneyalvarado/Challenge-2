@@ -97,7 +97,9 @@ a {
     margin: 2%;
     padding: 2%;
     border: 3px solid gray;
-
+}
+.lgimage:hover {
+    color: #555;
 }
 
 .smimages {
@@ -118,7 +120,9 @@ a {
 .info {
     display: flex;
     justify-content: center;
-    margin-right: 3vw;
+    margin: 2px;
+    padding: 2px;
+    border: 2px;
 }
 
 #Resume {
@@ -131,4 +135,12 @@ a {
 display: flex;
 justify-content: center
 margin-right: 3vw;
+}
+
+footer {
+    display: block;
+    background-color: gray;
+    font-size: 30px;
+    margin-top: 10px;
+    padding: 10px;
 }
