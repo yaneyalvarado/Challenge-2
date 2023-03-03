@@ -11,25 +11,25 @@ I have bult this portfolio for potential employers to be able to view the work t
 - Resume
 
 ## Instructions
-GIVEN an employer clicks on my deployed link
-WHEN they load my portfolio
-THEN they are presented with my name, a recent photo of myself, and links to sections about me, my work, and how to contact me
-WHEN they click on one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN they click on the link to the section about my projects (work)
-THEN the UI scrolls to a section with titled images of my applications
-WHEN they are presented with my first application
-THEN that application's image is larger in size than the others
-WHEN they click on the images of the applications
-THEN they are taken to that deployed application
-WHEN they click on the link to the section about my contact information
-THEN the UI scrolls to a section with my phone number, email, LinkedIn, and GitHub
-WHEN they click on my email
-THEN they are presented with a draft directly to my email
-WHEN they click on GitHub
-THEN they are presented with my GitHub profile
-WHEN they resize the page or view the site on various screens and devices
-THEN they are presented with a responsive layout that adapts to my viewport
+- GIVEN an employer clicks on my deployed link
+- WHEN they load my portfolio
+- THEN they are presented with my name, a recent photo of myself, and links to sections about me, my work, and how to contact me
+- WHEN they click on one of the links in the navigation
+- THEN the UI scrolls to the corresponding section
+- WHEN they click on the link to the section about my projects (work)
+- THEN the UI scrolls to a section with titled images of my applications
+- WHEN they are presented with my first application
+- THEN that application's image is larger in size than the others
+- WHEN they click on the images of the applications
+- THEN they are taken to that deployed application
+- WHEN they click on the link to the section about my contact information
+- THEN the UI scrolls to a section with my phone number, email, LinkedIn, and GitHub
+- WHEN they click on my email
+- THEN they are presented with a draft directly to my email
+- WHEN they click on GitHub
+- THEN they are presented with my GitHub profile
+- WHEN they resize the page or view the site on various screens and devices
+- THEN they are presented with a responsive layout that adapts to my viewport
 
 
 ## Mock-Up
