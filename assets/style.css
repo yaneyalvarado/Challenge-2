@@ -38,7 +38,7 @@ margin-left: 3vw;
 background-color: whitesmoke
 }
 
- h2 {
+h2 {
     text-align: center;
     justify-content: center;
     font-size: 40px;
@@ -75,7 +75,7 @@ h3 {
 
 section {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
 }
 
@@ -84,6 +84,7 @@ div {
     flex-wrap: wrap;
     justify-content: center;
 }
+
 a {
     text-decoration: none;
     color: black
@@ -91,6 +92,7 @@ a {
 
 .lgimage {
     display: block;
+    width: 800px;
     justify-content: center;
     margin: 2%;
     padding: 2%;
@@ -100,11 +102,33 @@ a {
 
 .smimages {
     display: block;
-    margin: 2%;
-    padding: 2%;
+    width: 400px;
+    height: 200px;
+    margin: 7.98611px;
+    padding: 7.98611px;
     border: 3px solid gray;
 }
 
-h3 ul li {
+#Contact {
+    font-size: 35px;
+    margin-top: 10px;
+    border: 3px solid gray;
+}
+
+.info {
+    display: flex;
     justify-content: center;
+    margin-right: 3vw;
+}
+
+#Resume {
+    font-size: 35px;
+    margin-top: 10px;
+   border: 3px solid gray;
+}
+
+.file {
+display: flex;
+justify-content: center
+margin-right: 3vw;
 }
