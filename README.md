@@ -2,7 +2,7 @@
 Module 2 Challenge: Professional Portfolio
 
 ## Description
-I have bult this portfolio for potential employers to be able to view the work that I have done. This portfolio includes many things such as a small section about me, my resume, contact information, 2 websites that I have built, and 3 "coming soon" projects. 
+I have built this portfolio for potential employers to be able to view the work that I have done. This portfolio includes many things such as a small section about me, my resume, contact information, 2 websites that I have built, and 3 "coming soon" projects. 
 
 ## Table of Contents
 - About Me
