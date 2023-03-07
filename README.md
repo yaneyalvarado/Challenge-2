@@ -37,7 +37,7 @@ I have built this portfolio for potential employers to be able to view the work 
 https://user-images.githubusercontent.com/123707509/222813786-d08ff2ff-b062-4d17-9092-b35bffaafbe8.mov
 
 ## Deployment
-
+https://yaneyalvarado.github.io/Yaney-Alvarado-Portfolio/
 
 ## GitHub
 https://github.com/yaneyalvarado/Yaney-Alvarado-Portfolio
